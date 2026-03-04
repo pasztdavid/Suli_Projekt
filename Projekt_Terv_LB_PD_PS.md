@@ -2,7 +2,7 @@
 
 **Topológia**
 
-![](https://assets.digitalocean.com/articles/alligator/boo.svg "Topológia")
+![](topolgia.webp "Topológia")
 
 **Címzési Táblázat**
 
