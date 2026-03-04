@@ -62,6 +62,7 @@
 		- Marketing **30**
 		- Blackhole **100**
 	- A központi *Linux szerver*hez a hozzáférést *ACL* szabályozza.
+	- Az irodai dolgozók számára WLAN is biztosítva van. Illetéktelenek személyek csatlakozásának elkerülése érdekében WPA2 Enterprise autentikációt alkalmazunk a Linux szerveren futó **RADIUS szerver**rel összekapcsolva
 - Üzlet
  	- Az üzletben a bankkártyás fizetés elérése érdekében *WI-FI* hálózat működik.
 	- Az üzleti hálózat automatikus konfigurációval rendelkezik.
