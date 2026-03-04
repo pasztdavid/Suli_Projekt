@@ -53,7 +53,7 @@
 		- Marketing **30**
 		- Blackhole **100**
 - Iroda
-	- Az éppen a cég által fejlesztett projektek, a központban elhelyezkedő *Linux szerver*en találhatók, melyek kizárólag *VPN* kapcsolaton keresztül érhetők el.
+	- Az éppen a cég által fejlesztett projektek, a központban elhelyezkedő *Linux szerver*en találhatók, melyek a központon kívülről kizárólag *VPN* kapcsolaton keresztül érhetők el.
 	- A rendszergazda számítógépén futtathatóak a Linux szerveren mentett konfigurációs fájlok, a hálózati eszközök automatizált konfigurációjára.
 	- Az irodában található *VLAN*-ok:
 		- Management **88**
